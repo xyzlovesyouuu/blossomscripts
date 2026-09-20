@@ -1,0 +1,2 @@
+-- blossomscripts + hunterxyz loves you
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/bc294a4e816ca7f5a4ffc57ca9a2f502e4b0ef19f27d6aa6f9c8b3cc2ce87288/download"))()
