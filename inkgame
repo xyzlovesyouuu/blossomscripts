@@ -1,0 +1,2 @@
+-- discord.gg/blossomscripts
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/8ff833a04a040fbdacca3bd2545927c0b69b51258738beed8fb0a7e243a54e50/download"))()
